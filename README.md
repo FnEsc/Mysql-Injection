@@ -1,6 +1,6 @@
 Mysql 注入天书——学习笔记
 
-[toc]
+[markdown-toc]
 
 # 一、搭建环境 & sqli-sql介绍
 
